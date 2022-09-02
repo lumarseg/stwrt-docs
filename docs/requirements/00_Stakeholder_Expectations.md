@@ -33,4 +33,8 @@ The 6DOF Motion Platform will have its digital twin.
 
 ### 4.2 Operational Objectives
 
+Bla, bla, bla...
+
 ### 4.3 Mission Success Criteria
+
+Bla, bla, bla...
