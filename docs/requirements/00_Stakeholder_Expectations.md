@@ -10,16 +10,27 @@ The Stewart platform design is extensively used in flight simulators, particular
 
 ## 2. Scope
 
-Design and build a 6DOF Motion Platform, using Arcadia's MBSE methodology and the Capella tool. Additionally, good practices described in "NASA System Engineering Handbook", "INCOSE Systems Engineering Handbook A Guide for System Life Cycle Processes and Activities" and "Model-Based Requirements Engineering" will be taken as a reference.
+Design and build a 6DOF Motion Platform for STEAM training courses, using the Arcadia's MBSE methodology and the Capella tool. Additionally, good practices described in "NASA System Engineering Handbook", "INCOSE Systems Engineering Handbook A Guide for System Life Cycle Processes and Activities" and "Model-Based Requirements Engineering" will be taken as a reference.
 
-## 3. Stakeholder Expectations
+## 3. List of Stakeholders
 
-### 3.1 Sponsor
+- Project Sponsor
+- STEAM Instructor
+- STEAM Assistant
+- Student
 
-The 6DOF Motion Platform will be built with low-cost materials, with a portable design that is resistant to transportation. The mobile or delicate parts must be protected so that they are manipulated by children 10 years of age and older.
+## 4. Stakeholder Expectations
+
+### 4.1 Mission Objetives & Constraints
+
+Design and build a 6DOF Motion Platform with low-cost materials, portable design and resistant to transportation. The mobile or delicate parts must be protected so that they are manipulated by children 10 years of age and older.
 
 The 6DOF Motion Platform will connect with a flight simulator to imitate the flight attitude of the aircraft.
 
 It will have a LCD screen with a keyboard to change the modes of operation. It will be integrated with a voice assistant like Alexa to switch modes of operation in the same way. It will have visual and sound indications, and interfaces to peripherals such as an external keyboard or joystick.
 
 The 6DOF Motion Platform will have its digital twin.
+
+### 4.2 Operational Objectives
+
+### 4.3 Mission Success Criteria
