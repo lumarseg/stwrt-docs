@@ -21,3 +21,5 @@ The 6DOF Motion Platform will be built with low-cost materials, with a portable 
 The 6DOF Motion Platform will connect with a flight simulator to imitate the flight attitude of the aircraft.
 
 It will have a LCD screen with a keyboard to change the modes of operation. It will be integrated with a voice assistant like Alexa to switch modes of operation in the same way. It will have visual and sound indications, and interfaces to peripherals such as an external keyboard or joystick.
+
+The 6DOF Motion Platform will have its digital twin.
