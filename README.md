@@ -1,6 +1,6 @@
 # STWRT-DOCS
 
-Stewart Platform Project - Documents and Support | v0.0.3-NIGHTLY
+Stewart Platform Project - Documents and Support | v0.0.4-NIGHTLY
 
 Author : Luis Maroto
 
